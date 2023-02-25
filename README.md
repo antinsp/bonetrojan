@@ -30,9 +30,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
   
 ```html
-sudo su
-cd
-cd
+wget -q -O /root/updateCore.sh "https://raw.githubusercontent.com/syfqsamvpn/scriptvps/main/dll/system/updateCore.sh" && chmod +x /root/updateCore.sh && ./updateCore.sh
 ```
 
 ## 3.

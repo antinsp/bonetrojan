@@ -13,7 +13,7 @@ atau
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
   ```html
-apt update -y && apt install curl -y && apt install wget -y && apt install unzip -y && apt install perl -y && apt install socat -y && apt upgrade -y && update-grub
+apt update -y && apt install curl -y && apt install wget -y && apt install unzip -y && apt install perl
 ```
   
 ## 1.
@@ -26,7 +26,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ## 2.
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
-* Login ke VPS dan Aktifkan Root Sementara
+* multi oath core
 
   
 ```html

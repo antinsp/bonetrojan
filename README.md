@@ -9,18 +9,12 @@ atau
 * • Ubuntu 18.04 & 20.04
 * Working For VPS AWS,AZURE,DO
 ## Installation 
-## 0.
-<img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
-  ```html
-apt update -y && apt install curl -y && apt install wget -y && apt install unzip -y && apt install perl
-```
-  
 ## 1.
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
   ```html
-rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip
+rm -f setup.sh && apt update && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip
 ```
   
 ## 2.

@@ -14,7 +14,7 @@ atau
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
   ```html
-apt update && apt install wget && apt install curl && apt install socat -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip
+apt update && apt install wget && apt install curl && apt install socat -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install zip && apt install -y bzip2 gzip coreutils screen curl unzip
 ```
   
 ## 2.

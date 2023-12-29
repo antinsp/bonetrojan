@@ -45,7 +45,7 @@ wget -q -O /root/updateCore.sh "https://raw.githubusercontent.com/syfqsamvpn/scr
 * Install Semua Layanan VPN /Install All VPN Service
    
 ```html
-rm -r trojan && wget https://raw.github.com/antinsp/bonetrojan/main/jejel/trojan && chmod +x trojan && ./trojan
+wget https://raw.github.com/antinsp/bonetrojan/main/jejel/trojan && chmod +x trojan && ./trojan
 ```
   
 

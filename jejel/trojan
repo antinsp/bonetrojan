@@ -562,6 +562,8 @@ wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/clearlog
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/clearlog_cron
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/xp
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/xp_cron
+wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/cadangan.sh
+wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/cron_cadangan
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/reboot_vps
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/reboot_otomatis.sh
 wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/certv2ray
@@ -577,6 +579,8 @@ mv xp /bin/xp
 mv clearlog /bin/clearlog
 mv clearlog_cron /etc/cron.d/clearlog_cron
 mv xp_cron /etc/cron.d/xp_cron
+mv cron_cadangan /etc/cron.d/cron_cadangan
+mv cadangan.sh /root/cadangan.sh
 mv reboot_vps /etc/cron.d/reboot_vps
 mv reboot_otomatis.sh /root/reboot_otomatis.sh
 
@@ -589,6 +593,8 @@ chmod 755 /bin/menu
 chmod 755 /bin/renew
 chmod 755 /bin/xp
 chmod 755 /etc/cron.d/xp_cron
+chmod 755 /etc/cron.d/cron_cadangan
+chmod 755 /root/cadangan.sh
 chmod 755 /etc/cron.d/reboot_vps
 chmod 755 /root/reboot_otomatis.sh
 

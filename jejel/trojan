@@ -575,7 +575,7 @@ wget https://raw.github.com/antinsp/bonetrojan/main/jejel/menu/addhost
 mv certv2ray /bin/certv2ray
 mv addhost /bin/addhost
 mv ak /bin/ak
-mv bottelr /bin/bottele
+mv bottele /bin/bottele
 mv del /bin/del
 mv menu /bin/menu
 mv renew /bin/renew

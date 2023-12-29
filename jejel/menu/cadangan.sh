@@ -1,0 +1,1 @@
+zip -r backupan.zip /etc/trojan-go /etc/xray

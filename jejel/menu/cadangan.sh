@@ -1,4 +1,6 @@
 zip -r backupan.zip /etc/trojan-go /etc/xray
-sleep 2
+wait
 telegram-send --file backupan.zip
+wait
 echo "done terkirim ya ges"
+wait

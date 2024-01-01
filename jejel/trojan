@@ -579,7 +579,7 @@ mv bottele /bin/bottele
 mv del /bin/del
 mv menu /bin/menu
 mv renew /bin/renew
-mv xp /bin/xp
+mv xp /root/xp
 mv clearlog /bin/clearlog
 mv clearlog_cron /etc/cron.d/clearlog_cron
 mv xp_cron /etc/cron.d/xp_cron
@@ -596,7 +596,7 @@ chmod 755 /bin/certv2ray
 chmod 755 /bin/del
 chmod 755 /bin/menu
 chmod 755 /bin/renew
-chmod 755 /bin/xp
+chmod 755 /root/xp
 chmod 755 /etc/cron.d/xp_cron
 chmod 755 /etc/cron.d/cron_cadangan
 chmod 755 /root/cadangan.sh
